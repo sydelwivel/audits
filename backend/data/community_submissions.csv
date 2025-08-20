@@ -1,0 +1,6 @@
+submission_id,timestamp,name,email,role,submission_type,content,attached_filename,upvotes,downvotes
+c875fa5e-c5cd-468c-91cc-1ca000e0c7e5,2025-08-20T04:02:53.139028,Anonymous,,,report,,1755642773_debiased_dataset (1).csv,1,0
+82baa523-caca-480c-a704-34b1b4c8b455,2025-08-20T04:03:11.689431,Anonymous,,m,comment,"mkl
+",1755642791_debiased_dataset (1).csv,0,1
+829eb828-f008-4d2a-bd73-bbdc8b4c30a3,2025-08-20T04:26:37.439277,Anonymous,,,Report,,1755644197_adult.csv,1,0
+a1614096-e880-4e66-b360-4af54606e21c,2025-08-20T04:26:59.624963,Anonymous,,,Report,,,0,0
